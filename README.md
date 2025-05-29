@@ -43,7 +43,7 @@ En el archivo index.html, se utiliza el componente con atributos personalizados 
 ![Estructura del código](capturas/estructuraCodigo.png)
 
 
-Para Finalizar: 
+# Para Finalizar
 Uso de clase JavaScript extendiendo de HTMLElement para crear el componente.
 
 Registro del componente con customElements.define.
