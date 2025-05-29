@@ -23,11 +23,11 @@ En el archivo index.html, se utiliza el componente con atributos personalizados 
 <script src="user-profile-card.js" defer></script>
 
 
-![Captura de ejecución](capturas/captura ejecucion.png)
+![Captura de ejecución](capturas/capturaEjecucion.png)
 
 ### Captura responsiva
 
-![Captura responsiva](capturas/captura responsivo.png)
+![Captura responsiva](capturas/capturaResponsivo.png)
 
 ### Estructura del código
 
